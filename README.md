@@ -4,6 +4,8 @@
 # RUP: Large Room Utilisation Prediction with carbon dioxide sensor
 Human occupancy information is crucial for any modern Building Management System (BMS). Implementing pervasive sensing and leveraging Carbon Dioxide data from BMS sensor, we present large Room Utilisation Prediction with carbon dioxide sensor (RUP), a novel way to estimate the number of people within a closed space from a single carbon dioxide sensor. RUP de-noises and pre-processes the carbon dioxide and indoor human occupancy data. We utilise both seasonal-trend decomposition based on Loess and seasonal-trend decomposition with moving average to factorise both datasets. For each trend, seasonal and irregular component, we model different regression algorithms to predict each respective human occupancy component value. We propose a zero pattern adjustment model to increase the accuracy and finally, we use additive decomposition to reconstruct the prediction value. We run our model in two different locations that have different contexts. The first location is an academic staff room and the second is a cinema theatre with up to 300 people. Our results show an average of 4.33% increment in accuracy for the small room with 94.68% indoor human occupancy counting and 8.46% increase for the cinema theatre in comparison to the accuracy of the baseline method, support vector regression.
 
+![alt text](https://github.com/cruiseresearchgroup/RUP-Large-Room-Utilisation-Prediction/blob/master/images/rup.jpg)
+
 This repository contains resources developed within the following paper:
 
 	Arief-Ang, I.B., Salim, F.D. and Hamilton, M., 2018. RUP: Large Room Utilisation Prediction with carbon dioxide sensor. 
