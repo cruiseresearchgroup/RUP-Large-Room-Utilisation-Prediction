@@ -6,10 +6,10 @@ Human occupancy information is crucial for any modern Building Management System
 
 This repository contains resources developed within the following paper:
 
-  Arief-Ang, I.B., Salim, F.D. and Hamilton, M., 2018. RUP: Large Room Utilisation Prediction with carbon dioxide sensor. 
-  Pervasive and Mobile Computing, 46, pp.49-72. 
+	Arief-Ang, I.B., Salim, F.D. and Hamilton, M., 2018. RUP: Large Room Utilisation Prediction with carbon dioxide sensor. 
+	Pervasive and Mobile Computing, 46, pp.49-72. 
 
-You can find the [paper](link_to) in this repository. 
+You can find the [paper](https://github.com/cruiseresearchgroup/RUP-Large-Room-Utilisation-Prediction/blob/master/paper/ariefang2018rup.pdf) in this repository. 
 
 Alternative link: https://www.sciencedirect.com/science/article/pii/S1574119217303930
 
